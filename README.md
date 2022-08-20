@@ -8,8 +8,8 @@ By default an undecorated stage in Javafx
  
 #Features Added: can now be resized
 
-<img src="./onDragResizeOpt.gif" alt="ResizeApp" align="right"/>
+<img src="./onDragResizeOpt.gif" alt="ResizeApp" align="right" width="50%"/>
 
 
 #Features Added: can now be dragged and moved around.
-<img src="./onDragMoveOpt.gif" alt="MoveableApp" align="right"/>
+<img src="./onDragMoveOpt.gif" alt="MoveableApp" align="right" width="50%"/>
