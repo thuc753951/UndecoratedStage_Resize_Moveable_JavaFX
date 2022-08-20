@@ -7,6 +7,9 @@ By default an undecorated stage in Javafx
 - can not be dragged around to move the Stage/Window
  
 #Features Added: can now be resized
-<img src="./onDragResizeOpt.gif" alt="ResizeApp" align="right" width="30"/>
+
+<img src="./onDragResizeOpt.gif" alt="ResizeApp" align="right"/>
+
+
 #Features Added: can now be dragged and moved around.
-<img src="./onDragMoveOpt.gif" alt="MoveableApp" align="right" width="30"/>
+<img src="./onDragMoveOpt.gif" alt="MoveableApp" align="right"/>
